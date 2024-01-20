@@ -6,8 +6,20 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+* , *:after , *:before {
+  margin: 0;
+  padding: 0;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: lucida sans ;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+.margin-bottom {
+  margin-bottom: 20px
 }
