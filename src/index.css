@@ -9,12 +9,11 @@ body {
 * , *:after , *:before {
   margin: 0;
   padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --blueColor:rgb(70, 70, 243);
+  --blackColor: #333;
+  --grayColor:#555;
 }
-
-body {
-  font-family: lucida sans ;
-}
-
 .container {
   width: 85%;
   margin: auto;
